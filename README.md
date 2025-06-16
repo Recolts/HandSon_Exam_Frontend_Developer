@@ -33,15 +33,15 @@ A simple project with static HTML and CSS.
 A modern responsive form app using **Next.js** and **Tailwind CSS**.
 
 #### ▶️ To Run:
--cd my-form-app
--npm install
--npm run dev
+- cd my-form-app
+- npm install
+- npm run dev
 
 ### 📂 my-todo-app
 
 A modern responsive task manager app built with Next.js 
 
 #### ▶️ To Run:
--cd my-todo-app
--npm install
--npm run dev
+- cd my-todo-app
+- npm install
+- npm run dev
